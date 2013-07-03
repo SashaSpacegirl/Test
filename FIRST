@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 int main() {
 	printf("Cows with guns\n"); 
 }
+=======
+1
+Edit
+>>>>>>> b63584275b5a77f3b3eea326337406a218434f8e

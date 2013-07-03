@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 TESTYYYY TESTYYYY yayayayayay
 cool beans
 it's all fun in the sun
+=======
+int main() {
+  printf("Read me first, because I'm coolest.\n");
+}
+>>>>>>> b63584275b5a77f3b3eea326337406a218434f8e
